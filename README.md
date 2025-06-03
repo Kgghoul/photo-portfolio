@@ -1,29 +1,36 @@
-# progect1
+# Photo Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Сайт-портфолио фотографа с галереей работ и формой для связи.
 
-## Recommended IDE Setup
+## Функционал
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Главная страница с информацией о фотографе
+- Портфолио с галереей работ
+- Страница с ценами и услугами
+- Форма для связи
+- Адаптивный дизайн
 
-## Customize configuration
+## Технологии
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue 3
+- Vue Router
+- Vite
+- CSS Variables
+- Responsive Design
 
-## Project Setup
+## Установка и запуск
 
-```sh
+```bash
+# Установка зависимостей
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Запуск в режиме разработки
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Сборка для продакшена
 npm run build
 ```
+
+## Деплой
+
+Сайт доступен по адресу: https://kgghoul.github.io/photo-portfolio/
