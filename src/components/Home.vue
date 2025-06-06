@@ -12,7 +12,7 @@ export default {
 <template>
   <div class="all-background">
     <title>Личный блог фотографа</title>
-    <h1>Фотограф Пидорасина из Баку</h1>
+    <h1>Фотограф Пидорасина из Бангкок</h1>
     <img src="../assets/banner.jpg" alt="баннер с фотографией" class="big_photo">
     <div class="section1">
       <h2>Обо мне</h2>
